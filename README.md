@@ -26,5 +26,5 @@ Building projects for 3+ years, have my own development studio **[@Qualsu](https
 
 ## GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=keenigithub&theme=react&hide_border=true)](https://git.io/streak-stats)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=keenigithub&theme=react)
+[![GitHub Streak](https://streak-stats.demolab.com?user=thekeny&theme=react&hide_border=true)](https://git.io/streak-stats)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thekeny&theme=react)
