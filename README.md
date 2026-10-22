@@ -6,6 +6,41 @@ Building projects for 3+ years, have my own development studio **[@Qualsu](https
 
 <b>Website with links: [thekeny.ru](https://thekeny.ru)</b>
 
+## Education & Achievements
+
+<details>
+<summary><img src="emojis/yandex_liceum.png" width="16" alt="Yandex Lyceum"> Yandex Lyceum</summary>
+
+- Studying **"Industrial Programming in Python"** at Yandex Lyceum
+- Completed the self-paced **Go course** (Go-1, Go-2, Go-3)
+
+</details>
+
+<details>
+<summary><img src="emojis/prod.webp" width="16" alt="PROD"> PROD</summary>
+
+- PROD ’26 — **finalist** (65 pts)
+- PROD Hackathon Minsk — **4th place** (24 pts, Frontend 6/10)
+- PROD Hackathon Saint Petersburg — **6th place** (27.5 pts, Frontend 9/10)
+
+</details>
+
+<details>
+<summary><img src="emojis/dano.webp" width="20" alt="DANO"> DANO</summary>
+
+- DANO Hackathon Saint Petersburg (Spring) — **21st place**
+- DANO Hackathon Saint Petersburg (Autumn) — **5th place**
+
+</details>
+
+<details>
+<summary>Other achievements</summary>
+
+- **3rd-degree** prize winner of the regional Techno Storm competition
+- **Finalist** in the «IT Professions of the Future: Test Engineer» case tournament by MGBOT
+
+</details>
+
 ## Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
