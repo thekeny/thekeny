@@ -11,7 +11,7 @@ Building projects for 3+ years, have my own development studio **[@Qualsu](https
 <details>
 <summary><img src="emojis/yandex_liceum.png" width="16" alt="Yandex Lyceum"> Yandex Lyceum</summary>
 
-- Studying **"Industrial Programming in Python"** at Yandex Lyceum
+- Studying on the course **"Industrial Programming in Python"**
 - Completed the self-paced **Go course** (Go-1, Go-2, Go-3)
 
 </details>
