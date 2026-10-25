@@ -1,8 +1,8 @@
 # I`m Kenyka
 
-FrontEnd **Next.JS** and BackEnd **Python/C++**
+Frontend **Next.JS** and Backend **Python/C++**
 
-Building projects for 3+ years, have my own development studio **[@Qualsu](https://github.com/qualsu)**
+Building projects for 4+ years, have my own development studio **[@Qualsu](https://github.com/qualsu)**
 
 <b>Website with links: [thekeny.ru](https://thekeny.ru)</b>
 
