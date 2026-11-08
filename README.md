@@ -20,8 +20,9 @@ Building projects for 4+ years, have my own development studio **[@Qualsu](https
 <summary><img src="emojis/prod.webp" width="16" alt="PROD"> PROD</summary>
 
 - PROD ’26 — **finalist** (65 pts)
-- PROD Hackathon Minsk — **4th place** (24 pts, Frontend 6/10)
-- PROD Hackathon Saint Petersburg — **6th place** (27.5 pts, Frontend 9/10)
+- PROD Hackathon Minsk — **4th place**
+- PROD Hackathon Saint Petersburg — **6th place**
+- PROD Hackathon Kazan — **2th place** 🏆
 
 </details>
 
