@@ -37,8 +37,8 @@ Building projects for 4+ years, have my own development studio **[@Qualsu](https
 <details>
 <summary>Other achievements</summary>
 
-- **3rd-degree** prize winner of the regional Techno Storm competition
-- **Finalist** in the «IT Professions of the Future: Test Engineer» case tournament by MGBOT
+- **3rd-degree** prize winner of the regional Techno Storm competition 🏆
+- **Finalist** in the «IT Professions of the Future: Test Engineer» case tournament by MGBOT 
 
 </details>
 
